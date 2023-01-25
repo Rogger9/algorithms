@@ -1,4 +1,5 @@
-export const nums = [1, 3, 6, 8, 2]
+export const nums = [1, 8, 11, 4, 8, 2]
+export const words = ['b', 'aa', 'ar', '!v', 'd', 'za']
 
 export const person = {
   name: 'John',
